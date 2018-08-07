@@ -1,0 +1,20 @@
+Name	Description	AutomationValue	EquipmentState
+Running	Running at or above nominal speed	1	RUNNING
+Speed Loss	Running below nominal speed	2	RUNNING
+Planned Maintenance	Planned maintenance activity	50	PLANNED DT
+Planned Meeting/Break	Planned operations meeting or break	51	PLANNED DT
+Planned Cleaning	Planned cleaning activity	52	PLANNED DT
+Planned Changeover	Planned changeover activity	53	PLANNED DT
+Equipment Failure	Mechanical or electrical failure	100	UNPLANNED DT
+Process Failure	Operator error or process related failure	101	UNPLANNED DT
+Equipment Waiting	"Waiting for materials, utilities or resources"	102	UNPLANNED DT
+Infeed Jam	Equipment infeed product jam	103	UNPLANNED DT
+Outfeed Jam	Equipment outfeed product jam	104	UNPLANNED DT
+E Stop	Emergency Stop	105	UNPLANNED DT
+Equipment Motor Failure	Equipment motor failure	106	UNPLANNED DT
+Conveyor Motor Failure	Conveyor motor failure	107	UNPLANNED DT
+Infeed Conveyor Belt Broken	Infeed conveyor belt broken	108	UNPLANNED DT
+Outfeed Conveyor Belt Broken	Outfeed conveyor belt broken	109	UNPLANNED DT
+No Demand	No production scheduled	150	NOT IN USE
+Trials	Running production trial	151	NOT IN USE
+Production Finished Early	Production run finished sooner than expected	152	NOT IN USE

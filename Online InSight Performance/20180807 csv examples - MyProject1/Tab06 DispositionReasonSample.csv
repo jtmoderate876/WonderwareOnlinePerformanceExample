@@ -1,0 +1,12 @@
+﻿Name,Description,AutomationValue,DispositionType
+Jammed in Machine,Product jammed in machine,101,WASTE
+Damaged Carton,Product carton damaged,102,WASTE
+Damaged Product Seal,Product seal damaged,103,WASTE
+Underweight Product,Product underweight,104,WASTE
+Overweight Product,Product overweight,105,WASTE
+Startup Waste,Production startup waste,106,WASTE
+Destructive Sampling,Destructive sampling,107,WASTE
+Failed QA Inspection,Product failed QA inspection,108,WASTE
+Waste Production,Waste production,109,WASTE
+Good Production,Good production,201,GOOD
+Rework Production,Rework production,202,GOOD

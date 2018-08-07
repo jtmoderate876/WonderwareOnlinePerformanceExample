@@ -1,0 +1,33 @@
+﻿Namespace,Name,EnableOEEDataPropertyDataCollection,TagReference,PropertyName
+Austin,Capper 1,True,Austin.Capper1.Crew,Crew
+Austin,Capper 1,True,Austin.Capper1.PId,ProductID
+Austin,Capper 1,True,Austin.Capper1.Shift,Shift
+Austin,Capper 1,True,Austin.Capper1.WOId,WorkOrderID
+Austin,Filler 1,True,Austin.Filler1.Crew,Crew
+Austin,Filler 1,True,Austin.Filler1.PId,ProductID
+Austin,Filler 1,True,Austin.Filler1.Shift,Shift
+Austin,Filler 1,True,Austin.Filler1.WOId,WorkOrderID
+Austin,Case Packer 1,True,Austin.CasePacker1.Crew,Crew
+Austin,Case Packer 1,True,Austin.CasePacker1.PId,ProductID
+Austin,Case Packer 1,True,Austin.CasePacker1.Shift,Shift
+Austin,Case Packer 1,True,Austin.CasePacker1.WOId,WorkOrderID
+Austin,Palletizer 1,True,Austin.Palletizer1.Crew,Crew
+Austin,Palletizer 1,True,Austin.Palletizer1.PId,ProductID
+Austin,Palletizer 1,True,Austin.Palletizer1.Shift,Shift
+Austin,Palletizer 1,True,Austin.Palletizer1.WOId,WorkOrderID
+Houston,Capper 2,True,Houston.Capper2.Crew,Crew
+Houston,Capper 2,True,Houston.Capper2.PId,ProductID
+Houston,Capper 2,True,Houston.Capper2.Shift,Shift
+Houston,Capper 2,True,Houston.Capper2.WOId,WorkOrderID
+Houston,Filler 2,True,Houston.Filler2.Crew,Crew
+Houston,Filler 2,True,Houston.Filler2.PId,ProductID
+Houston,Filler 2,True,Houston.Filler2.Shift,Shift
+Houston,Filler 2,True,Houston.Filler2.WOId,WorkOrderID
+Houston,Case Packer 2,True,Houston.CasePacker2.Crew,Crew
+Houston,Case Packer 2,True,Houston.CasePacker2.PId,ProductID
+Houston,Case Packer 2,True,Houston.CasePacker2.Shift,Shift
+Houston,Case Packer 2,True,Houston.CasePacker2.WOId,WorkOrderID
+Houston,Palletizer 2,True,Houston.Palletizer2.Crew,Crew
+Houston,Palletizer 2,True,Houston.Palletizer2.PId,ProductID
+Houston,Palletizer 2,True,Houston.Palletizer2.Shift,Shift
+Houston,Palletizer 2,True,Houston.Palletizer2.WOId,WorkOrderID

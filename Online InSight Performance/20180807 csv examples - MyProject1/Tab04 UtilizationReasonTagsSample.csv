@@ -1,0 +1,2 @@
+Namespace	Name	EnableOEEUtilizationDataCollection	UtilizationReasonTagReference	DefaultUtilizationReason
+Illinois	Machine_001	TRUE	aInBatch.AZURE001.Machine_001.State	Running

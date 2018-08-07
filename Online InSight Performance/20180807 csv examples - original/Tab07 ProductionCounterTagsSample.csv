@@ -1,0 +1,19 @@
+﻿Namespace,Name,EnableOEEProductionDataCollection,TagReference,DispositionReason
+Austin,Filler 1,True,Austin.Filler1.WP,Waste Production
+Austin,Filler 1,True,Austin.Filler1.GP,Good Production
+Austin,Case Packer 1,True,Austin.CasePacker1.WP1,Waste Production
+Austin,Case Packer 1,True,Austin.CasePacker1.WP2,Waste Production
+Austin,Case Packer 1,True,Austin.CasePacker1.GP1,Good Production
+Austin,Case Packer 1,True,Austin.CasePacker1.GP2,Good Production
+Austin,Case Packer 1,True,Austin.CasePacker1.RP,Rework Production
+Austin,Palletizer 1,True,Austin.Palletizer1.WP,Waste Production
+Austin,Palletizer 1,True,Austin.Palletizer1.GP,Good Production
+Houston,Filler 2,True,Houston.Filler2.WP,Waste Production
+Houston,Filler 2,True,Houston.Filler2.GP,Good Production
+Houston,Case Packer 2,True,Houston.CasePacker2.WP1,Waste Production
+Houston,Case Packer 2,True,Houston.CasePacker2.WP2,Waste Production
+Houston,Case Packer 2,True,Houston.CasePacker2.GP1,Good Production
+Houston,Case Packer 2,True,Houston.CasePacker2.GP2,Good Production
+Houston,Case Packer 2,True,Houston.CasePacker2.RP,Rework Production
+Houston,Palletizer 2,True,Houston.Palletizer2.WP,Waste Production
+Houston,Palletizer 2,True,Houston.Palletizer2.GP,Good Production

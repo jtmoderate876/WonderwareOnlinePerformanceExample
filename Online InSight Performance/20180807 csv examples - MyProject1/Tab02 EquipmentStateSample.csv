@@ -1,0 +1,8 @@
+Name,Description,StateType,Color
+RUNNING,Running State,Runtime,Green
+SLOW,Running but slower than rated.,Runtime,Yellow
+UNPLANNED DT,Unplanned Downtime State,Downtime,Red
+PLANNED DT,Planned Downtime State,Idle,Yellow
+NOT IN USE,Equipment is not being used.,Idle,Yellow
+ESTOP,Someone hit E Stop,Downtime,Red
+STARVED,Out of raw materials,Downtime,Red

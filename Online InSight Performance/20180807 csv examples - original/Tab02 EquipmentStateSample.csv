@@ -1,0 +1,5 @@
+﻿Name,Description,StateType,Color
+RUNNING,Running State,Runtime,Green
+UNPLANNED DT,Unplanned Downtime State,Downtime,Red
+PLANNED DT,Planned Downtime State,Idle,Yellow
+NOT OCCUPIED,Unoccupied State,Idle,Yellow

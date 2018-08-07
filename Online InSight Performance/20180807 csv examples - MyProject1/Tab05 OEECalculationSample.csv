@@ -1,0 +1,9 @@
+﻿Namespace,Name,EnableOEECalculation,DefaultRate,DefaultRate.UOM,DefaultRate.Time,TargetAvailability,TargetQuality,TargetPerformance,TargetOEE,StartUtilizationReason,CompleteUtilizationReason
+Austin,Filler 1,True,50,bottles,units/minute,95,95,95,85,Running,
+Austin,Capper 1,False,,,,,,,,,
+Austin,Case Packer 1,True,4,cases,units/minute,95,95,95,85,Running,No Demand
+Austin,Palletizer 1,True,180,cases,units/hour,95,95,95,85,,No Demand
+Houston,Filler 2,True,60,bottles,units/minute,97,95,95,87,Running,
+Houston,Capper 2,False,,,,,,,,,
+Houston,Case Packer 2,True,5,cases,units/minute,97,95,95,87,Running,No Demand
+Houston,Palletizer 2,True,240,cases,units/hour,97,95,95,87,,No Demand

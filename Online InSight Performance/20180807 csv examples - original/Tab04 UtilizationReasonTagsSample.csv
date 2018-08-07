@@ -1,0 +1,9 @@
+﻿Namespace,Name,EnableOEEUtilizationDataCollection,UtilizationReasonTagReference,DefaultUtilizationReason
+Austin,Filler 1,True,Austin.Filler1.UtilReason,Running
+Austin,Capper 1,True,Austin.Capper1.UtilReason,Running
+Austin,Case Packer 1,True,Austin.CasePacker1.UtilReason,Running
+Austin,Palletizer 1,True,Austin.Palletizer1.UtilReason,Running
+Houston,Filler 2,True,Houston.Filler2.UtilReason,No Demand
+Houston,Capper 2,True,Houston.Capper2.UtilReason,No Demand
+Houston,Case Packer 2,True,Houston.CasePacker2.UtilReason,No Demand
+Houston,Palletizer 2,True,Houston.Palletizer2.UtilReason,No Demand
